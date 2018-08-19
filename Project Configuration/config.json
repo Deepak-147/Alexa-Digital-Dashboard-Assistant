@@ -1,0 +1,60 @@
+{
+"Projects": [
+{
+"Name": "Lubepro",
+"Description": "LubePro is for the Shell Downstream Lubricants, Commercial Lubricants and Marketing teams to enable the global Lubricant Technical Advisors in the field to perform site assessment and reporting using smart phones and iPads compared to the manual process in the past.",
+"Manager": "Joby Mammen",
+"Launch_information": "TBD",
+"App_value": "TBD"
+},
+{
+"Name": "RSMA",
+"Description": "The Retail Site Manager Mobile App or RSMA enhances our customers digital retail experience, through empowerment of retail site staff enabling them to perform operational activities such as managing deliveries and pricing, reviewing customer feedback and site data using their smart phones and ipads.",
+"Manager": "Arvind Satarekar",
+"Launch_information": "RSMA is currently available in 27 countries.",
+"App_value": "RSMA app has Net present value or NPV of $15 Million."
+},
+{
+"Name": "Wet",
+"Description": "The Work Execution Tool or WET provides maintenance technicians with a simple interface to manage their maintenance tasks, record assurance task results, update work history and perform time confirmation for a work operation.",
+"Manager": "Savitha Ganapathy",
+"Launch_information": "WET v3 has been launched Globally.",
+"App_value": "TBD"
+},
+{
+"Name": "Mobile Forms",
+"Description": "The Mobile Forms Service replaces legacy paper clipboard processes with electronic forms on mobile devices. It facilitates the creation and administration of mobile forms.",
+"Manager": "Savitha Ganapathy",
+"Launch_information": "Mobile Forms has been launched Globally.",
+"App_value": "TBD"
+},
+{
+"Name": "Aviation Manuals",
+"Description": "Aviation manuals app enables the Technical Services Aviation organization to transition into digital solutions with digitizing the current Aviation Operation Manual into knowledge base.  This knowledge base will cover the necessary best practices, capture incidents and make them available on an intrinsically safe mobile device at airports, enabling it to be a monetized service to partners and customers.",
+"Manager": "Shruthi Srinivasamurthy",
+"Launch_information": "TBD",
+"App_value": "TBD"
+},
+{
+"Name": "Showpad Pilot",
+"Description": "Showpad is an off-the-shelf B2B sales enablement platform that will facilitate a better experience of sharing Shell's marketing materials with customers, track the engagement of the customers, and the results used to enable Shell's B2B sales reps to create a better sales experience for the customers.",
+"Manager": "Savitha Ganapathy",
+"Launch_information": "It is an off the shelf Third party app, we will use for the pilot.",
+"App_value": "It is yet to be launched and assessed."
+},
+{
+"Name": "Shell India Pay",
+"Description": "Shell India Pay app is being developed for Shell India to enable the digital payment platform and offer generic promotions to the app users.",
+"Manager": "Savvy Gopinathan",
+"Launch_information": "The app is currently in development phase.",
+"App_value": "Shell India Pay app will increase the Shell footprint by engaging India users to Shell app and increase the Sales Revenue for Customer Retail items."
+},
+{
+"Name": "Fitcar",
+"Description": "Fitcar is a mobile app which connects with an on-board diagnostic device that is installed in the customer’s vehicle. Once installed, the device is connected to the app to engage the consumer with helpful alerts, vehicle health statistics like diagnostic trouble codes, service alerts and reminders, push maintenance notifications, et cetera.",
+"Manager": "Ashwinikumar",
+"Launch_information": "The Fitcar app is piloted in the US markets.",
+"App_value": "TBD"
+}
+]
+}
